@@ -15,9 +15,9 @@ This project is divided into two main parts:
 
 **Steps:**
 
-**Dataset Exploration:** We begin this process by exploring the dataset using the Jupyter Notebook provided .
-**Dataset Preparation:** We prepare the dataset for building the predictive model. Considered creating new features that can enhance the model's predictive capabilities. The provided Resources can be used as a starting point for this task.
-**Model Training:** Once the data is ready, we trained a machine learning model to predict the target outcome, which is whether a customer makes a booking or not. We used algorithms like RandomForest to provide insights into how each variable within the model contributes to its predictive power. 
+**Dataset Exploration:** We begin this process by exploring the dataset using the Jupyter Notebook provided.  
+**Dataset Preparation:** We prepare the dataset for building the predictive model. Considered creating new features that can enhance the model's predictive capabilities. The provided Resources can be used as a starting point for this task.  
+**Model Training:** Once the data is ready, we trained a machine learning model to predict the target outcome, which is whether a customer makes a booking or not. We used algorithms like RandomForest to provide insights into how each variable within the model contributes to its predictive power.  
 
 # Model Evaluation:
 Evaluate the performance of the trained model by conducting cross-validation and calculating appropriate evaluation metrics.
