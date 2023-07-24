@@ -6,9 +6,9 @@ This project is divided into two main parts:
 
 **Steps:**
 
-**Data Collection:** The data is collected from a platform called **SkyTrax** the houses a large amount of airline related data.The data collected include as much information as possible to improve the output of the analysis.
-**Data Cleaning:** Once the dataset is collected, we perform data cleaning to prepare the data for analysis. The data was expected to be messy and contain purely text. 
-**Data Analysis:** We perform an analysis of the cleaned data to uncover insights. Some suggested starting points for analysis included topic modeling, sentiment analysis, and word clouds to provide insight into the content of the reviews.
+**Data Collection:** The data is collected from a platform called **SkyTrax** the houses a large amount of airline related data.The data collected include as much information as possible to improve the output of the analysis.  
+**Data Cleaning:** Once the dataset is collected, we perform data cleaning to prepare the data for analysis. The data was expected to be messy and contain purely text.   
+**Data Analysis:** We perform an analysis of the cleaned data to uncover insights. Some suggested starting points for analysis included topic modeling, sentiment analysis, and word clouds to provide insight into the content of the reviews.  
 
 # Part 2: Predicting Customer Buying Behavior
 **Aim:** In this part, the goal is to explore and prepare the dataset for building a predictive model that can predict a customer's likelihood of making a booking.
