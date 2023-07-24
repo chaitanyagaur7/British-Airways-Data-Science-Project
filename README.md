@@ -21,3 +21,8 @@ This project is divided into two main parts:
 
 # Model Evaluation:
 Evaluate the performance of the trained model by conducting cross-validation and calculating appropriate evaluation metrics.
+
+
+# Created by :
+**Chaitanya Gaur**  
+**E-Mail:** chaitanyagaur16@gmail.com
